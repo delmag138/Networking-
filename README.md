@@ -29,3 +29,4 @@ Configuring dhcp and dns
 <img width="1919" height="847" alt="image" src="https://github.com/user-attachments/assets/cbc2a5bb-c90e-4a19-905a-6db9cde2fb85" />
 
 
+
